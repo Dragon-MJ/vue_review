@@ -7,6 +7,7 @@ shift + command + . : 숨긴파일 보이기 / 숨기기
 command + o : 폴더열기
 command + option + v : 붙여넣기 ( 잘라내기 기능 )
 command + up : 상위폴더
+command + shift + t : 실수로 닫은 창 다시열기 / [크롬] + [VScode] 적용가능
 ```
 
 ## < 파이참 >
