@@ -8,6 +8,8 @@ command + o : 폴더열기
 command + option + v : 붙여넣기 ( 잘라내기 기능 )
 command + up : 상위폴더
 command + shift + t : 실수로 닫은 창 다시열기 / [크롬] + [VScode] 적용가능
+command + alt + control + o : 파이참으로 해당폴더 열기
+
 ```
 
 ## < 파이참 >
